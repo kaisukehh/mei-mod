@@ -1,0 +1,632 @@
+[b]Custom Diplopia Support[/b]
+	[*]	20/20 (Extra Tears)
+	[*]	Curse of the Tower (Mass Grudge on Hit)
+	[*]	Blood Clot (Odd indexed Tears gain +1 Damage)
+	[*]	Black Lotus (3 Tear minimum per orbital)
+	[*]	Black Candle (Grudge Damage Up)
+	[*]	Chemical Peel (Odd indexed Tears gain +2 Damage)
+	[*]	Chocolate Milk (Damage based on time)
+	[*]	Cursed Eye (Grudge Damage Up)
+	[*]	Dr. Fetus (Shoot Extra Bombs)
+	[*]	Epic Fetus (Gain an orbiting Epic Fetus Missile)
+	[*]	Epiphora (Continued firing increases Orbit Speed)
+	[*]	Ghost Pepper (Low Chance to fire Red Candle shot while firing)
+	[*]	Inner Eye (Extra Tears)
+	[*]	Large Zit (Low chance to spawn zit shot)
+	[*]	The Wiz (Orbital Rings Up)
+	[*]	Ludovico Technique (Control Elliptical Orbit Path)
+	[*]	Lump of Coal (Damage based on distance)
+	[*]	Monstro's Lung (Orbital Rings Way Up)
+	[*]	Mutant Spider (Extra Tears)
+	[*]	Proptosis (Damage based on distance)
+	[*]	Tech.5 (Extra Tech Lasers)
+	[*]	Tech X (Extra Tech X Rings)
+	[*]	Technology (Extra Tech Lasers)
+	[*]	Technology 2 (Extra Tech Lasers)
+
+[b]Implemented[/b]
+	[*]	<3 (+1 Black Heart)
+	[*]	???'s Only Friend (Grudge on damage)
+	[*]	???'s Soul (Grudges on Damage)
+	[*]	A Snack (+1 Black Hearts)
+	[*]	Abel (Grudge on damage)
+	[*]	Analog Stick (Full Orbit Angle Control)
+	[*]	Anarchist's Cookbook (Grudges on Damage)
+	[*]	Anti-Gravity (Firing causes a disjointed orbital)
+	[*]	Ball of Bandages (Grudge on damage)
+	[*]	BBF (Grudge on damage)
+	[*]	Best Bud (Grudge on damage)
+	[*]	Big Chubby (Grudges on Damage)
+	[*]	Big Fan (Grudge on damage)
+	[*]	Blood Bag (+1 Black Heart)
+	[*]	Blue Cap (Orbitals Up, +1 Black Heart)
+	[*]	Bob's Brain (Grudges on Damage)
+	[*]	Bob's Rotten Head (Grudges on Damage)
+	[*]	Boomerang (Grudges on Damage)
+	[*]	Breakfast (+1 Black Hearts)
+	[*]	Brimstone (Extra Brimstone Lasers)
+	[*]	Broken Crown (Orbitals Up)
+	[*]	Brother Bobby (Grudge on damage)
+	[*]	Bucket of Lard (+2 Black Hearts)
+	[*]	Bumbo (Grudge on damage)
+	[*]	Cancer (Orbitals Up)
+	[*]	Crack the Sky (Grudges on Damage)
+	[*]	Crow Heart (Grudge  Rate Up)
+	[*]	Cube of Meat (Grudge on damage)
+	[*]	Cupid's Arrow (Relinquish on damage)
+	[*]	Dad's Lost Coin (Grudge Range Up)
+	[*]	Daddy Long Legs (Grudge on damage)
+	[*]	Dead Bird (Grudge on damage)
+	[*]	Dead Cat (Leave 1 Black Heart)
+	[*]	Dead Eye (Dealing damage applies a damage buff which fades over time)
+	[*]	Dead Tooth (Aura while firing)
+	[*]	Demon Baby (Grudge on damage)
+	[*]	Dessert (+1 Black Hearts)
+	[*]	Dim Bulb (Grudge Range Up, Orbitals Up)
+	[*]	Dinner (+1 Black Hearts)
+	[*]	Distant Admiration (Grudge on damage)
+	[*]	Dry Baby (Grudge on damage)
+	[*]	Eye of Belial (Relinquish on damage)
+	[*]	Forever Alone (Grudge on damage)
+	[*]	Friend Zone (Grudge on damage)
+	[*]	Ghost Baby (Grudge on damage)
+	[*]	Guardian Angel (Grudge on damage)
+	[*]	Guillotine (Head gains Grudge Proximity, Disjointed Orbit)
+	[*]	Harlequin baby (Grudge on damage)
+	[*]	Head of Krampus (Grudges on Damage)
+	[*]	Headless Baby (Grudge on damage)
+	[*]	Holy Grail (+1 Black Hearts)
+	[*]	Hook Worm (Tears and Orbitals move only in 90 degree angles)
+	[*]	Hushy (Grudges on Damage)
+	[*]	Ipecac (Extra Explosions)
+	[*]	Isaac's Head (Grudges on Damage)
+	[*]	Isaac's Heart (Disjointed Orbit)
+	[*]	Kidney Stone (Orbitals Up during effect)
+	[*]	Lazy Worm (Orbit Speed Down, Grudge Range Up)
+	[*]	Leech (Grudge on damage)
+	[*]	Lemon Mishap (Grudge on damage)
+	[*]	Lil Gurdy (Grudge on damage)
+	[*]	Lil Loki (Grudge on damage)
+	[*]	Lil Monstro (Grudges on Damage)
+	[*]	Lil' Brimstone (Grudge on damage)
+	[*]	Lil' Haunt (Grudge on damage)
+	[*]	Little Chubby (Grudge on damage)
+	[*]	Little Gish (Grudge on damage)
+	[*]	Little Steven (Grudge on damage)
+	[*]	Loki's Horns (Orbital Rings Up)
+	[*]	Lost Fly (Grudge on damage)
+	[*]	Lunch (+1 Black Hearts)
+	[*]	Maggy's Bow (+1 Black Hearts)
+	[*]	Magic 8 Ball (Orbit Speed Up)
+	[*]	Magic Finger (Grudge on damage)
+	[*]	Magic Mushroom (+1 Black Hearts)
+	[*]	Magic Scab (+1 Black Hearts)
+	[*]	Marked (Controlled Disjointed Orbit)
+	[*]	Maw of the Void (Extra Maw of the Void Rings after Charging)
+	[*]	MEAT! (+1 Black Hearts)
+	[*]	Milk! (Temporary Orbitals Up)
+	[*]	Moldy Bread (+1 Black Hearts)
+	[*]	Mom's Eye (Orbital Rings Up)
+	[*]	Mom's Heels (Grudge Range Up)
+	[*]	Mom's Knife (Ludovico Tears with Knife graphics and 4x Damage)
+	[*]	Mom's Lipstick (Grudge Range Up)
+	[*]	Mom's Pearls (Grudge Range Up)
+	[*]	Mongo Baby (Grudge on damage)
+	[*]	Mr. Boom (Grudges on Damage)
+	[*]	Mr. Dolly (Grudge Range Up, Orbitals Up)
+	[*]	Multidimensional Baby (Relinquish rifted tear)
+	[*]	My Reflection (Acceleration Tears)
+	[*]	Number One (Orbitals Up, Grudge Range Down)
+	[*]	Obsessed Fan (Grudge on damage)
+	[*]	Odd Mushroom (Thick) (Grudge Range Up)
+	[*]	Odd Mushroom (Thin) (Orbitals Up)
+	[*]	Old Bandage (+1 Black Hearts)
+	[*]	Ouroboros Worm (Tears accelerate and decelerate)
+	[*]	Pacifier (Orbitals Up)
+	[*]	Papa Fly (Grudge on damage)
+	[*]	Peeper's Eye (Grudge on damage)
+	[*]	Pinking Shears (Grudge on damage)
+	[*]	Placenta (+1 Black Hearts)
+	[*]	Polyphemus (Relinquish on dealing damage)
+	[*]	Push Pin (Relinquish on damage)
+	[*]	Rainbow Buddy (Grudge on damage)
+	[*]	Rainbow Worm (Constant Ring, Hook, Wiggle, and Ouroboros Worm effects)
+	[*]	Raw Liver (+2 Black Hearts)
+	[*]	Red Candle (Grudge Damage Up)
+	[*]	Ring Worm (Tears and Orbitals gain rotation velocity)
+	[*]	Robo-baby (Grudge on damage)
+	[*]	Robo-baby 2.0 (Grudge on damage)
+	[*]	Roid Rage (Grudge Range Up)
+	[*]	Rotten Baby (Grudge on damage)
+	[*]	Rotten Meat (+1 Black Hearts)
+	[*]	Rubber Cement (Slightly Buggy Rubber Tears)
+	[*]	Sacred Heart (Grudge Range Up, +1 Black Hearts)
+	[*]	Sacrificial Dagger (Grudge damage instakills non-boss enemies below an HP threshold)
+	[*]	Sad Onion (Orbitals Up)
+	[*]	Safety Pin (Grudge Range Up, Orbit Speed Up)
+	[*]	Saggitarius (Relinquish on damage)
+	[*]	Scissors (Head gains Proximity Grudge)
+	[*]	Screw (Orbitals Up, Orbit Speed Up)
+	[*]	Second Hand (Grudge Loss Rate Down)
+	[*]	Seraphim (Grudge on damage)
+	[*]	Shade (Grudge on damage)
+	[*]	Shard of Glass (Temporary Grudge Range Up)
+	[*]	Smart Fly (Grudge on damage)
+	[*]	SMB Super Fan (Grudge Range Up, +1 Black Hearts, Orbitals Up)
+	[*]	Soy Milk (Orbitals Way Up)
+	[*]	Speed Ball (Orbit Speed Up)
+	[*]	Squeezy (Orbitals Up)
+	[*]	Stem Cells (+1 Black Hearts, Orbit Speed Up)
+	[*]	Stigmata (+1 Black Hearts)
+	[*]	Succubus (Grudge on damage)
+	[*]	Super Bandage (+1 Black Hearts)
+	[*]	Synthoil (Grudge Range Up)
+	[*]	Tape Worm (Grudge Range Way Up)
+	[*]	The Body (+3 Black Hearts)
+	[*]	The Candle (Grudge  Rate Up, Grudge Loss Rate Up)
+	[*]	The Halo (+1 Black Hearts)
+	[*]	The Small Rock (Orbitals Up)
+	[*]	Thunder Thighs (+1 Black Hearts)
+	[*]	Tiny Planet (Orbits shift out of place)
+	[*]	Tooth Picks (Orbitals Up)
+	[*]	Torn Photo (Orbitals Up, Orbit Speed Up)
+	[*]	Tractor Beam (Orbital Speed Way Up, Tear Control Speed Way Up)
+	[*]	Vibrant Bulb (Orbitals Up, Grudge Range Up)
+	[*]	Whip Worm (Orbit Speed Up)
+	[*]	Wiggle Worm (Tears and Orbitals gain wiggle)
+	[*]	Wire Coat Hanger (Orbitals Up)
+
+[b]Considering[/b]
+
+[b]Working[/b]
+	[*]	3 Dollar Bill
+	[*]	8 Inch Nails
+	[*]	9 Volt
+	[*]	A Dollar
+	[*]	A Missing Page
+	[*]	A Pony
+	[*]	A Quarter
+	[*]	AAA Battery
+	[*]	Abaddon
+	[*]	Ace of Spades
+	[*]	Acid Baby
+	[*]	Anemic
+	[*]	Ankh
+	[*]	Apple!
+	[*]	Aquarius
+	[*]	Aries
+	[*]	Athame
+	[*]	Backstabber
+	[*]	Bag Lunch
+	[*]	Ball of Tar
+	[*]	Bat Wing
+	[*]	Battery
+	[*]	Belly Button
+	[*]	Belt
+	[*]	Best Friend
+	[*]	Betrayal
+	[*]	BFF
+	[*]	Bible Tract
+	[*]	Black Feather
+	[*]	Black Lipstick
+	[*]	Black Powder
+	[*]	Black Tooth
+	[*]	Blank Card
+	[*]	Blasting Cap
+	[*]	Blind Rage
+	[*]	Blister
+	[*]	Blood of the Marytr
+	[*]	Blood Rights
+	[*]	Bloodshot Eye
+	[*]	Bloody Crown
+	[*]	Bloody Lust
+	[*]	Bloody Penny
+	[*]	Blue Map
+	[*]	Bob's Bladder
+	[*]	Bob's Curse
+	[*]	Bobby Bombs
+	[*]	Bogo Bomb
+	[*]	Bomb Bag
+	[*]	Bomber Boy
+	[*]	Book of Belial
+	[*]	Book of Revelations
+	[*]	Book of Secrets
+	[*]	Book of Shadows
+	[*]	Book of Sin
+	[*]	Boom! 
+	[*]	Box
+	[*]	Box of Friends
+	[*]	Box of Spiders
+	[*]	Breath of Life
+	[*]	Broken Ankh
+	[*]	Broken Magnet
+	[*]	Broken Remote
+	[*]	Broken Stopwatch
+	[*]	Brown Cap
+	[*]	Brown Nugget
+	[*]	Bum Friend
+	[*]	Burnt Penny
+	[*]	Bursting Sack
+	[*]	Butt Bombs
+	[*]	Butt Penny
+	[*]	Butter Bean
+	[*]	Caffeine Pill
+	[*]	Cain's Eye
+	[*]	Cain's Other Eye
+	[*]	Callus
+	[*]	Cambion Conception
+	[*]	Camo Undies
+	[*]	Cancer
+	[*]	Capricorn
+	[*]	Car Battery
+	[*]	Cartridge
+	[*]	Cat-O-Nine-Tails
+	[*]	Celtic Cross
+	[*]	Censur
+	[*]	Ceremonial Robes
+	[*]	Champion Belt
+	[*]	Chaos
+	[*]	Charged Baby
+	[*]	Charm of the Vampire
+	[*]	Child Leash
+	[*]	Child's Heart
+	[*]	Circle of Protection
+	[*]	Clicker
+	[*]	Common Cold
+	[*]	Compass
+	[*]	Compost
+	[*]	Compound Fracture
+	[*]	Cone Head
+	[*]	Contagion
+	[*]	Continuum
+	[*]	Contract From Below
+	[*]	Converter
+	[*]	Counterfeit Penny
+	[*]	Crack Jacks
+	[*]	Cracked Dice
+	[*]	Cricket's Body
+	[*]	Cricket's Head
+	[*]	Crooked Penny
+	[*]	Crown of Light
+	[*]	Crystal Ball
+	[*]	Cursed Skull
+	[*]	Curved Horn
+	[*]	D Infinity
+	[*]	D1
+	[*]	D10
+	[*]	D100
+	[*]	D12
+	[*]	D20
+	[*]	D4
+	[*]	D6
+	[*]	D7
+	[*]	D8
+	[*]	Dad's Key
+	[*]	Daemon's Tail
+	[*]	Dark Bum
+	[*]	Dark Matter
+	[*]	Dataminer
+	[*]	Dead Dove
+	[*]	Dead Onion
+	[*]	Dead Sea Scrolls
+	[*]	Death's Touch
+	[*]	Deck of Cards
+	[*]	Deep Pockets
+	[*]	Delirious
+	[*]	Depression
+	[*]	Diplopia
+	[*]	Doctor's Remote
+	[*]	Dog Tooth
+	[*]	Duality
+	[*]	Duct Tape
+	[*]	Dull Razor
+	[*]	E Coli
+	[*]	Eden's Blessing
+	[*]	Eden's Soul
+	[*]	Empty Vessel
+	[*]	Endless Nameless
+	[*]	Equality
+	[*]	Error
+	[*]	Eucharist
+	[*]	Euthanasia
+	[*]	Eve's Mascara
+	[*]	Even's Bird Foot
+	[*]	Evil Eye
+	[*]	Experimental Treatment
+	[*]	Explosivo
+	[*]	Eye of Greed
+	[*]	Faded Polaroid
+	[*]	Fanny Pack
+	[*]	Fart Baby
+	[*]	Fate
+	[*]	Fate's Reward
+	[*]	Finger!
+	[*]	Fire Mind
+	[*]	Fish Head
+	[*]	Fish Tail
+	[*]	Flat Penny
+	[*]	Flat Worm
+	[*]	Flush!
+	[*]	Forget Me Now
+	[*]	Fork
+	[*]	Fragmented Card
+	[*]	Friendly Ball
+	[*]	Fruit Cake
+	[*]	Gamekid
+	[*]	GB Bug
+	[*]	Gemini
+	[*]	Gimpy
+	[*]	Glass Cannon
+	[*]	Glaucoma
+	[*]	Glitter Bombs
+	[*]	Glowing Hourglass
+	[*]	Glyph of Balance
+	[*]	Gnawed Leaf
+	[*]	Goat head
+	[*]	Goat Hoof
+	[*]	God's Flesh
+	[*]	Godhead
+	[*]	Golden Horse Shoe
+	[*]	Greed's Gullet
+	[*]	Growth Hormones
+	[*]	Guardian Spear
+	[*]	Guppy's Collar
+	[*]	Guppy's Hairball
+	[*]	Guppy's Head
+	[*]	Guppy's Paw
+	[*]	Guppy's Tail
+	[*]	Halo of Flies
+	[*]	Head of the Keeper
+	[*]	Hivemind
+	[*]	Holy Light
+	[*]	Holy Mantle
+	[*]	Holy Water
+	[*]	Host Hat
+	[*]	Hot Bombs
+	[*]	Hourglass
+	[*]	How to Jump
+	[*]	Humble Bundle
+	[*]	Immaculate Conception
+	[*]	Incubus
+	[*]	Infestation
+	[*]	Infestation 2
+	[*]	Iron Bar
+	[*]	Isaac's Tears
+	[*]	IV Bag
+	[*]	Jacob's Ladder
+	[*]	Jar of Flies
+	[*]	Jesus Juice
+	[*]	Judas' Shadow
+	[*]	Judas' Tongue
+	[*]	Juicy Sack
+	[*]	Kamikaze
+	[*]	Karma
+	[*]	Key Bum
+	[*]	Key Piece 1
+	[*]	Key Piece 2
+	[*]	Kidney Bean
+	[*]	King Baby
+	[*]	Latch Key
+	[*]	Lazarus' Rags
+	[*]	Lead Pencil
+	[*]	Left Hand
+	[*]	Leo
+	[*]	Liberty Cap
+	[*]	Libra
+	[*]	Lil Chest
+	[*]	Lil Larva
+	[*]	Linger Bean
+	[*]	Little Baggy
+	[*]	Little C.H.A.D
+	[*]	Little Horn
+	[*]	Locust of Conquest
+	[*]	Locust of Death
+	[*]	Locust of Famine
+	[*]	Locust of Pestilence
+	[*]	Locust of Wrath
+	[*]	Lord of the Pit
+	[*]	Lost Contact
+	[*]	Lost Cork
+	[*]	Louse
+	[*]	Luck Foot
+	[*]	Lucky Rock
+	[*]	Lucky Toe
+	[*]	Lusty Blood
+	[*]	Maggy's Faith
+	[*]	Magneto
+	[*]	Mama Mega!
+	[*]	Mask of Infamy
+	[*]	Match Book
+	[*]	Matchstick
+	[*]	Meconium
+	[*]	Mega Bean
+	[*]	Mega Blast
+	[*]	Metal Plate
+	[*]	Metronome
+	[*]	Midas Touch
+	[*]	Mine Crafter
+	[*]	Mini Mush
+	[*]	Missing No.
+	[*]	Missing Page 2
+	[*]	Missing Poster
+	[*]	Mom's Bottle of Pills
+	[*]	Mom's Bra
+	[*]	Mom's Coin Purse
+	[*]	Mom's Contact
+	[*]	Mom's Eyeshadow
+	[*]	Mom's Key
+	[*]	Mom's Pad
+	[*]	Mom's Pearl
+	[*]	Mom's Perfume
+	[*]	Mom's Purse
+	[*]	Mom's Razor
+	[*]	Mom's Toenail
+	[*]	Mom's Underwear
+	[*]	Mom's Wig
+	[*]	Money = Power
+	[*]	Monkey's Paw
+	[*]	Monster Manual
+	[*]	Montro's Tooth
+	[*]	More Options
+	[*]	Mr. Mega
+	[*]	My Little Unicorn
+	[*]	My Shadow
+	[*]	Mysterious Candy
+	[*]	Mysterious Liquid
+	[*]	Mysterious Paper
+	[*]	Mystery Sack
+	[*]	Necronomicon
+	[*]	Night Light
+	[*]	No!
+	[*]	No. 2
+	[*]	Nose Goblin
+	[*]	Notched Axe
+	[*]	Nun's Habit
+	[*]	Ouija Board
+	[*]	Pageant Boy
+	[*]	Pandora's Box
+	[*]	Paper Clip
+	[*]	Parasite
+	[*]	Parasitoid
+	[*]	Pause
+	[*]	Pay to Play
+	[*]	Pay to Win
+	[*]	Pentagram
+	[*]	Petrified Poop
+	[*]	PHD
+	[*]	Piggy Bank
+	[*]	Pinky Eye
+	[*]	Pisces
+	[*]	Placebo
+	[*]	Plan C
+	[*]	Poke Go
+	[*]	Poker Chip
+	[*]	Polydactyl
+	[*]	Portable Slot
+	[*]	Prayer Card
+	[*]	Pulse Worm
+	[*]	Punching Bag
+	[*]	Pupula Duplex
+	[*]	Purity
+	[*]	Purple Heart
+	[*]	Pyjamas
+	[*]	Pyro
+	[*]	Pyromaniac
+	[*]	Razor Blade
+	[*]	Red Patch
+	[*]	Remote Detonater
+	[*]	Restock
+	[*]	Rib of Greed
+	[*]	Rosary
+	[*]	Rosary Bead
+	[*]	Rubber Ball
+	[*]	Rune Bag
+	[*]	Rusted Key
+	[*]	Sack Head
+	[*]	Sack of Pennies
+	[*]	Sack of Sacks
+	[*]	Sad Bombs
+	[*]	Safety Cap
+	[*]	Safety Helmet
+	[*]	Safety Scissors
+	[*]	Samson's Chains
+	[*]	Samson's Lock
+	[*]	Scapular
+	[*]	Scatter Bombs
+	[*]	Scorpio
+	[*]	Serpent's Kiss
+	[*]	Sharp Plug
+	[*]	Sharp Straw
+	[*]	Shiny Rock
+	[*]	Shoop da Whoop
+	[*]	Silver Dollar
+	[*]	Sinus Infection
+	[*]	Sissy Long Legs
+	[*]	Sister Maggy
+	[*]	Skatole
+	[*]	Skeleton Key
+	[*]	Smelter
+	[*]	Spider Baby
+	[*]	Spider Bite
+	[*]	Spider Butt
+	[*]	Spider Mod
+	[*]	Spirit of the Night
+	[*]	Spoon Bender
+	[*]	Starter Deck
+	[*]	Steam Sale
+	[*]	Steven
+	[*]	Sticky Bombs
+	[*]	Stop Watch
+	[*]	Store Credit
+	[*]	Store Key
+	[*]	Strange Attractor
+	[*]	Stud Finder
+	[*]	Sulfuric Acid
+	[*]	Super Magnet
+	[*]	Swallowed Penny
+	[*]	Sworn Protector
+	[*]	Tammy's Head
+	[*]	Tarot Cloth
+	[*]	Taurus
+	[*]	Tear Detonator
+	[*]	Telepathy for Dummies
+	[*]	Teleport
+	[*]	Teleport 2.0
+	[*]	The Bean
+	[*]	The Bible
+	[*]	The Black Bean
+	[*]	The Ladder
+	[*]	The Mark
+	[*]	The Mind
+	[*]	The Mitre
+	[*]	The Mulligan
+	[*]	The Nail
+	[*]	The Negative
+	[*]	The Pact
+	[*]	The Polaroid
+	[*]	The Poop
+	[*]	The Relic
+	[*]	The Satanic Bible
+	[*]	The Soul
+	[*]	The Virus
+	[*]	The Wafer
+	[*]	There's Options
+	[*]	Tick
+	[*]	Tonsil
+	[*]	Tough Love
+	[*]	Toxic Shock
+	[*]	Transcendence
+	[*]	Treasure Map
+	[*]	Trinity Shield
+	[*]	Umbilical Cord
+	[*]	Undefined
+	[*]	Unicorn Stump
+	[*]	Used Diaper
+	[*]	Varicose Veins
+	[*]	Ventricle Razor
+	[*]	Virgo
+	[*]	Void
+	[*]	Wait What?
+	[*]	Walnut
+	[*]	Watch Battery
+	[*]	We Need To Go Deeper
+	[*]	White Pony
+	[*]	Whore of Babylon
+	[*]	Wish Bone
+	[*]	Wooden Nickel
+	[*]	Wooden Spoon
+	[*]	X-Ray Glasses
+	[*]	Yo Listen!
+	[*]	Zodiac
+
+[b]Issue[/b]
+	[*]	1up (Respawn with Half a Soul Heart)
+
+[b]Not Applicable[/b]
+	[*]	Adrenaline (No Red Hearts)
+	[*]	Dark Princes Crown (No Red Hearts)
+	[*]	Mom's Locket (No Red Hearts)
+	[*]	Stem Cell (No Red Hearts)
+	[*]	Potato Peeler (No Red Hearts)
+	[*]	Yum Heart (No Red Hearts)
+

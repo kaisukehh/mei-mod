@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Mei</name>
+    <directory>mei</directory>
+    <id>842051906</id>
+    <description>Play as Mei, a ghost with telekinetic powers.
+
+A new, fully sprited, additional custom character. She controls tears using her psychic powers and grudges her enemies to boost her abilities.
+
+[i]This mod does not add items that allow other characters to use her abilities.[/i]
+
+[i]There are additional assets that can be used for thumbnails, social media posts, etc. in the mod folder.[/i]
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=879410535]Mei Mod: Red Hearts[/url]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=879757757]Mei Mod: Piercing Tears[/url]
+
+[b]Stats[/b]
+[table]
+	[tr]
+		[td]Damage[/td]
+		[td]x0.40 + 0.30[/td]
+	[/tr]
+	[tr]
+		[td]Move Speed[/td]
+		[td]x0.8 + 0.10[/td]
+	[/tr]
+	[tr]
+		[td]Shot Speed[/td]
+		[td]x0.8 + 0.30[/td]
+	[/tr]
+	[tr]
+		[td]Health[/td]
+		[td]3 Black Hearts[/td]
+	[/tr]
+[/table]
+
+[h1][b]Mechanics[/b][/h1]
+Almost every tear effect in the game works with Mei, and some are quite powerful.
+Any Red Heart Containers Mei gains are converted to 1.5 Black Hearts.
+The amount of tears Mei controls is based on her Tears stat.
+The speed at which the tears orbit around Mei is based on her Shot Speed stat.
+Mei forms Grudges with enemies she attacks and enemies that get too close to her.
+Tears Mei controls are incorporeal and deal no damage until she attempts to attack.
+The distance at which Mei forms Grudges with enemies is based on a multiple of her Range stat.
+Every Grudge Mei maintains increases her damage, and they fade slowly over time.
+
+[h1][b]Strategy[/b][/h1]
+Enemy too far away? Standing still gradually increases Mei's orbit range.
+Having trouble hitting enemies? Tap shoot to control the distance of Mei's tears.
+Enemies rushing you down? Fend off enemies that get too close by firing in the opposite direction.
+Feeling a little weak? Damage and graze multiple enemies for a big temporary damage increase.
+Grudges hard to maintain? Each Range Up increases the Grudge distance a lot.
+Knockback getting you down? Tap the drop trinket button to reverse Mei's orbital direction.
+
+Special Thanks to [url=https://steamcommunity.com/id/Taitou4ever/]Lord Shaxx[/url] for the thought-provoking concept of multiple orbital rings which led to a bunch of sweet synergies.
+
+[i]yatboim[/i]</description>
+    <version>1.80</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Player Characters"/>
+</metadata>

@@ -1,0 +1,11 @@
+<players root="gfx/characters/costumes/" 
+         portraitroot="gfx/ui/boss/" 
+         nameimageroot="gfx/ui/boss/" 
+         bigportraitroot="gfx/ui/stage/">
+	<player name="Mei" skin="mei.png" black="6" hp="0" bombs="0"
+          nameimage="playername_mei.png" 
+          portrait="playerportrait_mei.png" 
+          bigportrait="playerportraitbig_mei.png"
+          skinColor="0"
+          canShoot="false" />
+</players>

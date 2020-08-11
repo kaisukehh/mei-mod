@@ -1,0 +1,3 @@
+﻿<costumes anm2root="gfx/characters/">
+	<costume anm2path="meisheavyblackhair.anm2" type="none" priority="200" />
+</costumes>

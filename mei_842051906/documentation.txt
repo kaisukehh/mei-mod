@@ -1,0 +1,63 @@
+This document will cover the Mei modding API and provide examples of what it can be used to do. It will be updated alongside the mod as more functionality is added.
+
+Usage
+	The Mei mod exposes its mod table as the global variable MeiMod. Two public methods were added to the mod table:
+
+	Number	AddModCallback( CallbackId:Number, Callback:Function, ... )
+		This method takes a callback id (listed below), a callback function, and optional parameters. It returns a number that represents a key that can be used to remove the callback or just to ensure that the callback was properly registered. If the callback was not registered for any reason, the returned value will be nil.
+
+	Boolean	RemoveModCallback( CallbackId:Number, Key:Number )
+		This method takes a callback id (listed below) and a callback key, which is returned when AddModCallback successfully registers a callback. It will remove the callback from the mod.
+
+Callbacks
+	The Mei mod exposes a number of callback id's that can be used to register callbacks for performing certain actions:
+
+	MC_CONVERT_HEARTS = 0
+	( RedHeartCost:Number, BlackHeartsGained:Number, ShouldHeal:Boolean )
+		RedHeartCost is the current cost in red heart containers to pay for a black heart gain.
+		BlackHeartsGained is the current amount of black hearts gains when the red heart cost is met.
+		ShouldHeal is the current boolean value representing if Mei should be healed before each check.
+
+		The return values should be (in order) the new red heart cost, black hearts gained, and should heal boolean.
+			e.g. return 2,3,true
+
+		If false is returned instead, the conversion will be skipped entirely, allowing Mei to handle red hearts like Isaac normally would.
+
+	MC_MORPH_TEAR = 1
+	( Tear:EntityTear )
+		This callback is called for each Mei controlled Tear at the end of every MorphTear call giving the mod the ability to modify Mei's Tears however they want.
+
+		No return values.
+
+	MC_GRUDGE_POINTS = 2
+	( GrudgePoints:Table )
+		This callback is called right before the mod applies grudge effects to enemies based on the Vector points in the GrudgePoints table.
+
+		This allows mod creators to add their own proximity based grudge locations or to completely remove the proximity grudge mechanic by clearing out all valid locations before they are applied.
+
+		No return values.
+
+	MC_GRUDGE_VALIDITY = 3
+	( CanGrudge:Boolean )
+		This callback is called when the mod is checking to see if the player can utilize grudge mechanics.
+		CanGrudge is the current grudge validity.
+
+		Return a boolean that represents if grudge should work.
+
+	MC_TELEKINESIS_VALIDITY = 4
+	( HasTelekinesis:Boolean )
+		This callback is called when the mod is checking to see if the player can utilize telekinesis mechanics.
+		HasTelekinesis is the current telekinesis validity.
+
+		Return a boolean that represents if telekinesis should work.
+
+	MC_REFRESH_TEAR_SPRITE = 5
+	( TargetFileName:String, TargetSpritesheet:String, TargetAnimation:String )
+		This callback is called when the mod is about to set Mei's tears to a custom sprite. It can be used to prevent this change from occuring or to change which files it changes the tear to.
+
+		TargetFileName is the string passed to Sprite:Load()
+		TargetSpritesheet is the string passed to Sprite:ReplaceSpritesheet()
+		TargetAnimation is the string passed to Sprite:Play()
+
+		Return three strings representing the new target file name, spritesheet, and animation.
+		Return false to prevent the tear from changing at all.
