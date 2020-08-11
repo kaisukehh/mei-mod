@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Faster beggar animations</name>
+    <directory>faster beggar animations</directory>
+    <id>1230380895</id>
+    <description>Is here.
+
+Now all beggars will be faster in their transaction.
+
+(No shell game beggar, because it gives me problems on the animation and for this reason i'm not planning on doing it.)
+
+Great inspiration from a mod called Fastarcade  :^)
+</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Babies"/>
+    <tag id="Tweaks"/>
+    <tag id="Removals"/>
+</metadata>
